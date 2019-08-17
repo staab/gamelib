@@ -17,8 +17,8 @@ title: GameLib
 email: shtaab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place for sharing board games within your community.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gamelib"
+url: "https://staab.github.io"
 
 # Build settings
 markdown: kramdown
